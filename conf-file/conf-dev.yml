@@ -1,4 +1,4 @@
 serverAddress:
-	activeMQ: http://101.132.138.215:5679
+  activeMQ: http://101.132.138.215:5679
   elasticSearch: http://101.132.138.215:3300
   redis: http://101.132.138.215:6379

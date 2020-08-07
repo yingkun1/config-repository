@@ -1,4 +1,4 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:8866/eureka
+serverAddress:
+	activeMQ: http://101.132.138.215:5679
+  elasticSearch: http://101.132.138.215:3300
+  redis: http://101.132.138.215:6379
